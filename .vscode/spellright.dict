@@ -1,0 +1,3 @@
+convert_hex_string_naive_sscanf
+convert_hex_string_naive_strtoul
+convert_hex_string_naive_lookup
